@@ -2,3 +2,8 @@ body{
     font-family: 'Spline Sans Mono', monospace;;
     padding: 20px 60px;
 }
+
+a{
+    text-decoration: none;
+    color: rgb(103, 103, 103)
+}
